@@ -1,0 +1,35 @@
+
+
+  #searchForm {
+    padding-bottom: 2rem;
+    
+  }
+
+  #searchForm details {
+    display: inline-block;
+    padding-left: 1rem;
+    vertical-align: top;
+    /* border: 1px solid red; */
+  }
+
+  #searchForm details summary {
+    cursor: pointer;  
+    margin-bottom: 0.2rem;
+  }
+
+  #searchForm input {
+    vertical-align: top;
+  }
+
+  .uni {
+    
+    cursor: pointer;
+  }
+
+  
+
+  #backToResults {
+    display: none;
+  }
+
+  
